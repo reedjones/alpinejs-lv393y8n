@@ -1,2 +1,5 @@
-# alpinejs-lv393y8n
-Created with WebComponents.dev
+# AlpineJS Starter Kit
+
+### Links
+
+- [GitHub](https://github.com/alpinejs/alpine)

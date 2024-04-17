@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/reedjones.alpinejs-lv393y8n",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 6dKqblFm8W56amB02FBc --open"
+  }
+}
